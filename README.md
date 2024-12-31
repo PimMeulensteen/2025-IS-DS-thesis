@@ -13,10 +13,10 @@ This thesis advances the state-of-the-art in digitizing tabular historical data 
 An example transcription can be found here. The corresponding HTR result is below the image.
 ![Example ledger](example_page.jpeg)
 
-|   | Entry                          | Column 3 | Column 4 | Column 5 |
-|---|--------------------------------|----------|----------|----------|
+|     | Entry                          | Column 3 | Column 4 | Column 5 |
+|-----|------------------------------|----------|----------|----------|
 | 341 | Joseph Plo: de silve deb:    |          |          |          |
-| 21 | aug mos. en aron de pinto.    | 42       | 127      |          |
+| 21  | aug mos. en aron de pinto.   | 42       | 127      |          |
 |     | Navarro                      | 136      | 1538     |          |
 |     | Sept volk. Volckerts         | 1036     | 2068     | 2        |
 | 19  | Samuel d'Elisa Abravanel     | 113      | 360      |          |
@@ -24,20 +24,20 @@ An example transcription can be found here. The corresponding HTR result is belo
 |     |                              |          | 6449     |          |
 |     | Hend. Bruls                  |          | 302210   |          |
 |     | Jac: ls. beck                | 11291    | 2713     |          |
-| 9e octob | octob Taphel Henrigsz       | 96       | 997      | 16       |
+| 9e octob | octob Taphel Henrigsz   | 96       | 997      | 16       |
 | 16  | Henrij Bruls                 | 9        | 1210     | 10       |
 | 30  | man de Vega                  |          | 1064 12  |          |
 |     |                              |          | 16454    |          |
 | 10  | Jan Balde                    | 135      | 1362 10  | 12       |
 | 16  | jek. vander meer             | 186      | 1000     |          |
 | 9   | blesen wede & zoonen         | 884      | 1057     | 10       |
-|     | dom                          | f40      | 53       |          |
+|     | dom                          | 140      | 53       |          |
 | 13  | man G: de Alva               |          |          |          |
-|     | Jan batt van bre             |          | 3 00     | 12       |
+|     | Jan batt van bre             |          | 300      | 12       |
 |     |                              |          | 20724    |          |
 |     | fr. perera de Castro         |          | 1500     |          |
 | 28  | Man. Gon da Sijlor           | 132      | 1849     |          |
 | 168 | g: van de Bemdes wed         | 174      | 1825     |          |
 | 16  | Ad: & J: Boogaert            | 522      | 5263     |          |
-|     |                              |          | 274:     |          |
+|     |                              |          | 2740     |          |
 |     |                              |          | 32741    |          |
